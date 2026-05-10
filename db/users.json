@@ -1,0 +1,22 @@
+{
+  "Medo": {
+    "username": "Medo",
+    "password": "Hore@123",
+    "student_type": "علمي",
+    "telegram_user_id": "8741305766",
+    "telegram_username": null,
+    "telegram_first_name": "🪽",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_34.jpg",
+    "session_id": "f82a8b1f-9434-4aff-8f89-949a9e526645",
+    "created_at": "2026-05-10T15:10:50.564335",
+    "verified": true,
+    "last_login": "2026-05-10T15:12:28.822013",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "physics_mechanic",
+      "physics_electric"
+    ],
+    "server_num": 22
+  }
+}
